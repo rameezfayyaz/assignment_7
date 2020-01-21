@@ -1,7 +1,7 @@
 mod login {
     pub mod administrator {
         pub fn account () {
-            println!("This is an administrator account.");
+            println!("This is a module for an administrator account.");
         }
     }
 }
